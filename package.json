@@ -1,0 +1,13 @@
+{
+    "name": "node-renren",
+    "description": "rest api of node.js for renren.com",
+    "version": "1.0",
+    "repository": {
+        "type":"git",
+        "url":"http://github.com/rechardchen/node-renren.git"
+    },
+    "depedencies": {
+        "request": ">=2.9"
+    },
+    "main":"./renren.js"
+}
