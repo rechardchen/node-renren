@@ -2,14 +2,10 @@
 
 ## Install
 
-Just copy the node-renren dir to your project/node_modules, then run 
-
 <pre>
-    npm install -d
+    npm install node-renren
 </pre>
-
-under that folder
 
 ## Usage
 
-see the source code, it is just easy
+See [Renren Rest API](http://wiki.dev.renren.com/wiki/API)
